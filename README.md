@@ -62,6 +62,10 @@ The main objective of this project was to convert raw sales data into a meaningf
 ## Final Dashboard
 
 The dashboard provides a complete overview of global sales performance with clean visuals, KPIs, trends, and key insights.
+<p align="center">
+  <img src=globalsales.png/>
+ width="900"/>
+</p>
 
 ## Created by 
 
